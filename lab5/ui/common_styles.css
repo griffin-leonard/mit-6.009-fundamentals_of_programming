@@ -1,0 +1,19 @@
+#s04-ribbon {
+  width: 100%;
+  height: 40vh;
+  position: fixed;
+}
+
+header > h1 {
+  padding-left: 2em;
+}
+
+.mdl-layout__content {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+#s04-main {
+  max-width: 800px;
+  margin-top: 2em;
+}

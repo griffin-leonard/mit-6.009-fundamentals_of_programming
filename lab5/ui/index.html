@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html lang="en-US">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="mobile-web-app-capable" content="yes">
+
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+
+  <title>6.009 Autocomplete</title>
+
+  <link href='fonts.css' rel='stylesheet' type='text/css'>
+
+  
+
+  <link rel="stylesheet" href="common_styles.css">
+  <link rel="stylesheet" href="assignment_styles.css">
+  <link rel="stylesheet" href="material.min.css">
+</head>
+
+<body class="mdl-layout mdl-layout--fixed-header mdl-js-layout mdl-color--grey-100">
+  <header class="mdl-layout__header mdl-layout__header--scroll mdl-color--grey-100 mdl-color-text--grey-800">
+    <h1 class="mdl-layout-title">6.009 Autocomplete</h1>
+  </header>
+
+  <div id="s04-ribbon"></div>
+
+  <div class="mdl-layout__content">
+    <main id="s04-main" class="mdl-color--white mdl-shadow--4dp mdl-color-text--grey-800 mdl-grid">
+      <!-- Result labels -->
+      <div id="rpc_status">
+        <span id="crash">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" viewBox="0 0 483.537 483.537" style="enable-background:new 0 0 483.537 483.537; fill:#F44336" xml:space="preserve" width="3em" height="3em"><path d="M479.963,425.047L269.051,29.854c-5.259-9.88-15.565-16.081-26.782-16.081h-0.03c-11.217,0-21.492,6.171-26.782,16.051L3.603,425.016c-5.046,9.485-4.773,20.854,0.699,29.974 c5.502,9.15,15.413,14.774,26.083,14.774H453.12c10.701,0,20.58-5.594,26.083-14.774C484.705,445.84,484.979,434.471,479.963,425.047z M242.239,408.965c-16.781,0-30.399-13.619-30.399-30.399c0-16.78,13.619-30.399,30.399-30.399c16.75,0,30.399,13.619,30.399,30.399C272.638,395.346,259.02,408.965,242.239,408.965zM272.669,287.854c0,16.811-13.649,30.399-30.399,30.399c-16.781,0-30.399-13.589-30.399-30.399V166.256c0-16.781,13.619-30.399,30.399-30.399c16.75,0,30.399,13.619,30.399,30.399V287.854z"></path></svg>
+          Your code crashed, see the server console
+        </span>
+
+        <span id="timeout">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="3em" height="3em" viewBox="0 0 510 510" style="enable-background:new 0 0 510 510; fill:#F44336" xml:space="preserve"><path style="fill-opacity:0.9;" d="M255,0C114.75,0,0,114.75,0,255s114.75,255,255,255s255-114.75,255-255S395.25,0,255,0z     M255,459c-112.2,0-204-91.8-204-204S142.8,51,255,51s204,91.8,204,204S367.2,459,255,459z"></path><polygon style="fill-opacity:0.9;" points="267.75,127.5 229.5,127.5 229.5,280.5 362.1,362.1 382.5,328.95 267.75,260.1   "></polygon></svg>
+          Your code timed out
+        </span>
+
+        <span id="rpc_spinner">
+          <div class="mdl-spinner mdl-js-spinner is-active"></div>
+          Your code is running...
+        </span>
+      </div>
+
+      <h3>Enter a prefix:</h3>
+
+      <div>
+        <p>
+          Corpus: "<span id="selected_corpus"></span>"
+          <!-- Left aligned menu on top of button  -->
+          <button id="select_corpus" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">...</button>
+          <div class="mdl-tooltip" for="select_test">
+            Select another corpus.
+          </div>
+          <ul id="corpora" class="mdl-menu mdl-js-menu mdl-js-ripple-effect" for="select_corpus">
+          </ul>
+        </p>
+        <button id="words-selector" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored mode-select-button">Words</button>
+        <button id="sentences-selector" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored mode-select-button">Sentences</button>
+        <button id="pattern-selector" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored mode-select-button">Match pattern</button>
+
+        <div id="prefixbox-container" class="mdl-textfield mdl-js-textfield">
+          <input class="mdl-textfield__input" type="text" id="prefixbox">
+          <label class="mdl-textfield__label" for="prefixbox">Enter a prefix or pattern...</label>
+        </div>
+
+        <ul id="completions" class="demo-list-item mdl-list">
+          <!--li class="mdl-list__item completion">
+            <span class="mdl-list__item-primary-content">
+              Bryan Cranston
+            </span>
+          </li>
+          <li class="mdl-list__item completion">
+            <span class="mdl-list__item-primary-content">
+              Aaron Paul
+            </span>
+          </li>
+          <li class="mdl-list__item completion">
+            <span class="mdl-list__item-primary-content">
+              Bob Odenkirk
+            </span>
+          </li-->
+        </ul>
+      </div>
+
+      <p>
+        <span id="lab_message"></span>
+      </p>
+
+      <div id="options">
+        <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="autocorrect-switch">
+          <input type="checkbox" id="autocorrect-switch" class="mdl-switch__input">
+          <span class="mdl-switch__label">Autocorrect</span>
+        </label>
+
+        <div id="max-results">
+          Max results:
+          <input id="max-results-slider" class="mdl-slider mdl-js-slider" type="range" min="0" max="50">
+          <label id="max-results-label" class="mdl-slider__label" for ="max-results-slider"></label>
+        </div>
+      </div>
+
+    </main>
+  </div>
+
+  <script src="jquery.js"></script>
+<!--script src="svg.js"></script-->
+  <script src="material.min.js"></script>
+  <script src="ui.js"></script>
+</body>
+</html>
+
