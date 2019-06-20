@@ -1,0 +1,9 @@
+{
+    "type": "replay",
+    "map": "zoo3-vertical-path.json",
+    "events": ["ThriftyZookeeper", [45, 144], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+    "money": 1450,
+    "num_allowed_unfed": 30,
+    "spawn_interval": 1,
+    "animal_speed": 50
+}

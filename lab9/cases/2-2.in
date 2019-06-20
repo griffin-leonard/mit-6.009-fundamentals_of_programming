@@ -1,0 +1,9 @@
+{
+    "type": "replay",
+    "map": "zoo5-corner-to-corner.json",
+    "events": [null, null, null, null],
+    "money": 0,
+    "num_allowed_unfed": 1,
+    "spawn_interval": 5,
+    "animal_speed": 100
+}

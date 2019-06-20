@@ -1,0 +1,12 @@
+{
+    "type": "replay",
+    "map": "zoo3-vertical-path.json",
+    "events": ["Demon", [114,12], null, null, null, null, null, null, null, null, null,
+    null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+    null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+    null, null, null, null, null, null, null],
+    "money": 100,
+    "num_allowed_unfed": 1,
+    "spawn_interval": 100,
+    "animal_speed":4
+}

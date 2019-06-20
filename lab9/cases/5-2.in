@@ -1,0 +1,9 @@
+{
+    "type": "replay",
+    "map": "zoo5-corner-to-corner.json",
+    "events": ["VHS", [97, 128], null, null, null, "VHS", [17, 108], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+    "money": 100,
+    "num_allowed_unfed": 30,
+    "spawn_interval": 2,
+    "animal_speed": 30
+}

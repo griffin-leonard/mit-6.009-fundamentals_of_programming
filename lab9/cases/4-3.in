@@ -1,0 +1,16 @@
+{
+    "type": "replay",
+    "map": "zoo7-ugly-path.json",
+    "events": ["Demon", [14,94],"Demon", [14,94],"Demon", [93, 182], null, null, null, null, null, null, null, null,
+                null, null, null, null, null, "Demon", [446, 150], null, null, null, null, null, null, null, null,
+                "Demon", [184, 60], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+                "Demon", [262, 355], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+                null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+                null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+                null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+                null, null, null, null],
+    "money": 5000,
+    "num_allowed_unfed": 30,
+    "spawn_interval": 1,
+    "animal_speed": 30
+}

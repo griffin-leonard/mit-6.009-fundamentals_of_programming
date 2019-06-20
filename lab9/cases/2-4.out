@@ -1,0 +1,201 @@
+[{
+    "formations": [{
+        "loc": [60, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [200, 200],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }],
+    "money": 149,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [60, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [200, 200],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [0, 0],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 149,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [60, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [200, 200],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [30, 0],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 149,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [60, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [200, 200],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [50, 10],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 149,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [60, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [200, 200],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [50, 40],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 149,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [60, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [200, 200],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [80, 40],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 149,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [60, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [200, 200],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [90, 20],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 149,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [60, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [200, 200],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [110, 10],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 149,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [60, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [200, 200],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [130, 20],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 149,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [60, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [200, 200],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [130, 50],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 149,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [60, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [200, 200],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [130, 80],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 149,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [60, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [200, 200],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [119, 99],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 149,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}]

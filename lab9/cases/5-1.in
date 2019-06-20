@@ -1,0 +1,9 @@
+{
+    "type": "replay",
+    "map": "zoo2-horizontal-path.json",
+    "events": ["VHS", null, [100, 300], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+    "money": 100,
+    "num_allowed_unfed": 30,
+    "spawn_interval": 1,
+    "animal_speed": 20
+}

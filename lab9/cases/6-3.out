@@ -1,0 +1,352 @@
+[{
+    "formations": [{
+        "loc": [200, 285],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }],
+    "money": 130,
+    "status": "ongoing",
+    "num_allowed_remaining": 30
+}, {
+    "formations": [{
+        "loc": [200, 285],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [0, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 130,
+    "status": "ongoing",
+    "num_allowed_remaining": 30
+}, {
+    "formations": [{
+        "loc": [200, 285],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [50, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [0, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [143, 400],
+        "texture": "1f476",
+        "size": [31, 31]
+    }],
+    "money": 80,
+    "status": "ongoing",
+    "num_allowed_remaining": 30
+}, {
+    "formations": [{
+        "loc": [200, 285],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [100, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [50, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [143, 400],
+        "texture": "1f476",
+        "size": [31, 31]
+    }, {
+        "loc": [143, 400],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [0, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 80,
+    "status": "ongoing",
+    "num_allowed_remaining": 30
+}, {
+    "formations": [{
+        "loc": [200, 285],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [150, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [100, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [143, 400],
+        "texture": "1f476",
+        "size": [31, 31]
+    }, {
+        "loc": [138.9017712044683, 397.1356465407574],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [50, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [143, 400],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [0, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 80,
+    "status": "ongoing",
+    "num_allowed_remaining": 30
+}, {
+    "formations": [{
+        "loc": [200, 285],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [200, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [150, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [143, 400],
+        "texture": "1f476",
+        "size": [31, 31]
+    }, {
+        "loc": [134.8035424089366, 394.27129308151484],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [100, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [138.85413722977484, 397.2050363346797],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [50, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [143, 400],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [0, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 80,
+    "status": "ongoing",
+    "num_allowed_remaining": 30
+}, {
+    "formations": [{
+        "loc": [200, 285],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [250, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [200, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [143, 400],
+        "texture": "1f476",
+        "size": [31, 31]
+    }, {
+        "loc": [130.7053136134049, 391.40693962227226],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [150, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [134.70827445954967, 394.41007266935935],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [100, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [138.96484837170786, 397.0474500280789],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [50, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [143, 400],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [0, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [501, 386],
+        "texture": "1f476",
+        "size": [31, 31]
+    }],
+    "money": 30,
+    "status": "ongoing",
+    "num_allowed_remaining": 30
+}, {
+    "formations": [{
+        "loc": [200, 285],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [300, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [250, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [143, 400],
+        "texture": "1f476",
+        "size": [31, 31]
+    }, {
+        "loc": [126.60708481787323, 388.5425861630297],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [200, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [130.5624116893245, 391.615109004039],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [150, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [134.92969674341572, 394.0949000561578],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [100, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [138.96484837170786, 397.0474500280789],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [50, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [501, 386],
+        "texture": "1f476",
+        "size": [31, 31]
+    }, {
+        "loc": [143, 400],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [0, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 30,
+    "status": "ongoing",
+    "num_allowed_remaining": 30
+}, {
+    "formations": [{
+        "loc": [200, 285],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [350, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [300, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [143, 400],
+        "texture": "1f476",
+        "size": [31, 31]
+    }, {
+        "loc": [122.50885602234155, 385.6782327037871],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [250, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [126.41654891909934, 388.8201453387187],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [200, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [130.89454511512358, 391.14235008423674],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [150, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [134.92969674341572, 394.0949000561578],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [100, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [501, 386],
+        "texture": "1f476",
+        "size": [31, 31]
+    }, {
+        "loc": [138.96484837170786, 397.0474500280789],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [50, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [143, 400],
+        "texture": "1f34e",
+        "size": [11, 11]
+    }, {
+        "loc": [0, 440],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 30,
+    "status": "ongoing",
+    "num_allowed_remaining": 30
+}, {
+    "error": "NotEnoughMoneyError"
+}]

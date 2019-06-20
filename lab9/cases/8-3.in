@@ -1,0 +1,9 @@
+{
+    "type": "replay",
+    "map": "zoo4-left-to-bottom.json",
+    "events": [null, null, "VHS", null, null, null, [152,324], [142,132], null, "CrazyZookeeper", [124, 322], [333, 214], null, null, null, "VHS", [152,324], [142,132], "VHS", [111, 20], [300, 20], "ThriftyZookeeper", [443, 309], [360, 80], null, null, null, "TraineeZookeeper", [100, 100], [123,332],[142,252], "Demon", [101, 380], [150, 180], "OverreachingZookeeper", [370, 100], [120, 310], null, null, null, null, null, null, null, null, null, null, "Demon", [120, 130], [80, 320], "Demon", [30, 90], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+    "money": 400,
+    "num_allowed_unfed": 30,
+    "spawn_interval": 1,
+    "animal_speed": 25
+}

@@ -1,0 +1,9 @@
+{
+    "type": "replay",
+    "map": "zoo3-vertical-path.json",
+    "events": ["TraineeZookeeper", [117, 150], null, "TraineeZookeeper", [205, 425], [100, 350], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+    "money": 1450,
+    "num_allowed_unfed": 30,
+    "spawn_interval": 2,
+    "animal_speed": 30
+}

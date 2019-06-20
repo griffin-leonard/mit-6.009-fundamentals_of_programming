@@ -1,0 +1,74 @@
+[{
+    "formations": [{
+        "loc": [120, 33],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [88, 342],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [99, 457],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [0, 10],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }],
+    "money": 149,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [120, 33],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [88, 342],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [99, 457],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [0, 10],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [63, 0],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 149,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [120, 33],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [88, 342],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [99, 457],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [0, 10],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [63, 0],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 149,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "error": "NotEnoughMoneyError"
+}]

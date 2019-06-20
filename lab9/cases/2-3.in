@@ -1,0 +1,9 @@
+{
+    "type": "replay",
+    "map": "zoo6-many-turns.json",
+    "events": ["ThriftyZookeeper", null, "ThriftyZookeeper", null, null, null, null],
+    "money": 200,
+    "num_allowed_unfed": 1,
+    "spawn_interval": 3,
+    "animal_speed": 145
+}
