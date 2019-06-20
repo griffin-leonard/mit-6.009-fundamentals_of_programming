@@ -1,0 +1,9 @@
+{
+    "type": "replay",
+    "map": "zoo6-many-turns.json",
+    "events": ["TraineeZookeeper", [143,400],"TraineeZookeeper", [175,260], [80, 420], [501, 386], null, "TraineeZookeeper", [100,200], null, null, [100,200], null, [402, 289], null, null, [402, 289], null, null, [402, 289], null, null, null, [402, 289], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+    "money": 130,
+    "num_allowed_unfed": 30,
+    "spawn_interval": 1,
+    "animal_speed": 50
+}

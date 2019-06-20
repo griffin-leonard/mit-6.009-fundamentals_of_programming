@@ -1,0 +1,9 @@
+{
+    "type": "replay",
+    "map": "zoo2-horizontal-path.json",
+    "events": ["Demon", [90,300], [100, 100], null, null, null, null, null, [80, 175], "Demon", "VHS", [90, 150], null, null, null, null, "CrazyZookeeper", null, null, [100, 200], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "TraineeZookeeper", [300, 300], [400, 300], null, null, null, null, "VHS", [200, 200], null, null, null, null, null, null, null, null],
+    "money": 400,
+    "num_allowed_unfed": 30,
+    "spawn_interval": 1,
+    "animal_speed": 25
+}

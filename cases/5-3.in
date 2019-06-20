@@ -1,0 +1,9 @@
+{
+    "type": "replay",
+    "map": "zoo0-demo.json",
+    "events": ["VHS", [200, 402], null, null, null, "VHS", [145, 405], null, null, null, null, "VHS", [147, 406], [142, 383], [100, 100], "VHS", [81, 197], null, null, null, "VHS", [254, 301], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+    "money": 100,
+    "num_allowed_unfed": 30,
+    "spawn_interval": 3,
+    "animal_speed": 19
+}

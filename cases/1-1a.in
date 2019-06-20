@@ -1,0 +1,9 @@
+{
+    "type": "replay",
+    "map": "zoo4-left-to-bottom.json",
+    "events": ["ThriftyZookeeper", [600,200], "SpeedyZookeeper", null, "OverreachingZookeeper"],
+    "money": 100,
+    "num_allowed_unfed": 1,
+    "spawn_interval": 100,
+    "animal_speed": 0
+}

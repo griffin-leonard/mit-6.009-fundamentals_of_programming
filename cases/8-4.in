@@ -1,0 +1,23 @@
+{
+    "type": "replay",
+    "map": "zoo6-many-turns.json",
+    "events": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+    "ThriftyZookeeper", [540, 102], null, null, null, null, null, null, null, null,
+    "OverreachingZookeeper", [460, 80], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+    "SpeedyZookeeper", [95, 84], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+    "Demon", [91, 188], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+    "Demon", [179, 188], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+    "VHS", [515, 183], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+    "VHS", [516, 390], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+    "TraineeZookeeper", [349, 184], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+    "TraineeZookeeper", [397, 194], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+    "Demon", [496, 294], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+    "CrazyZookeeper", [215, 390], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+    "CrazyZookeeper", [532, 81], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+    "CrazyZookeeper", [151, 386], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+    "CrazyZookeeper", [285, 397], null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+    "money": 5000,
+    "num_allowed_unfed": 10,
+    "spawn_interval": 10,
+    "animal_speed": 20
+}

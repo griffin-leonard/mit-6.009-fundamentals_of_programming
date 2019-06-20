@@ -1,0 +1,92 @@
+[{
+    "formations": [{
+        "loc": [230, 450],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [400, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }],
+    "money": 150,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [230, 450],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [400, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [0, 240],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 150,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [230, 450],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [400, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [33, 240],
+        "texture": "1f418",
+        "size": [31, 31]
+    }],
+    "money": 150,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [230, 450],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [400, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [66, 240],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [30, 100],
+        "texture": "1f46e",
+        "size": [31, 31]
+    }],
+    "money": 50,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "formations": [{
+        "loc": [230, 450],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [400, 300],
+        "texture": "1f5ff",
+        "size": [51, 51]
+    }, {
+        "loc": [99, 240],
+        "texture": "1f418",
+        "size": [31, 31]
+    }, {
+        "loc": [30, 100],
+        "texture": "1f46e",
+        "size": [31, 31]
+    }],
+    "money": 50,
+    "status": "ongoing",
+    "num_allowed_remaining": 1
+}, {
+    "error": "NotEnoughMoneyError"
+}]

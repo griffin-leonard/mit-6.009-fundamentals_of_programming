@@ -1,0 +1,9 @@
+{
+    "type": "replay",
+    "map": "zoo2-horizontal-path.json",
+    "events": [null, null, null, null, "ThriftyZookeeper", [340,245], null],
+    "money": 100,
+    "num_allowed_unfed": 1,
+    "spawn_interval": 100,
+    "animal_speed": 0
+}
