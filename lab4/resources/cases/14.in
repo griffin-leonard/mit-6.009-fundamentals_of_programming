@@ -1,0 +1,6 @@
+{
+  "test": "9x7 tent with scattered rocks, max vacancy of 0 => fits ",
+  "tent_size": [9,7],
+  "rocks": [[0,2], [2,2], [2,4], [3,4], [7,4], [5,4], [5,5], [8,6], [7,1]],
+  "max_vacancy": 0
+}

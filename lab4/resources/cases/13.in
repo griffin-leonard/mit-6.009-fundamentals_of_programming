@@ -1,0 +1,6 @@
+{
+  "test": "5x5 tent with three rocks, max vacancy of 0 => fits ",
+  "tent_size": [5,5],
+  "rocks": [[1,1],[1,3],[3,1]],
+  "max_vacancy": 0
+}

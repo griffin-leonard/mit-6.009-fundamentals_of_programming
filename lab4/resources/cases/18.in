@@ -1,0 +1,6 @@
+{
+  "test": "4x4 tent with two rocks, max vacancy of 1 => fails",
+  "tent_size": [4, 4],
+  "rocks": [[3,2], [2,3]],
+  "max_vacancy": 1
+}

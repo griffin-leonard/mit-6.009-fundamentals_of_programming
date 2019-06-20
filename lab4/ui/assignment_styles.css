@@ -1,0 +1,17 @@
+#s04-ribbon {
+  background-color: #E91E63;
+}
+
+#s04-main {
+  flex-direction: column;
+  align-items: center;
+}
+
+#drawing {
+  width: 90%;
+  max-width: 512px;
+}
+
+#lab_message {
+  font-weight: bold;
+}
