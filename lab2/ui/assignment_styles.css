@@ -1,0 +1,27 @@
+#s04-ribbon {
+  background-color: #ff9100;
+}
+
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke-opacity: .6;
+}
+
+.mdl-tabs__panel {
+  text-align: center;
+}
+
+.bad {
+  color: #B71C1C;
+}
+
+#graph {
+  width: 100%;
+}
+.immybox.immybox_witharrow{
+  background-image:url(immybox-arrow.png);
+}
