@@ -1,0 +1,9 @@
+{
+    "type": "replay",
+    "map": "zoo1-tiny.json",
+    "events": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+    "money": 100,
+    "num_allowed_unfed": 13,
+    "spawn_interval": 1,
+    "animal_speed": 1
+}
