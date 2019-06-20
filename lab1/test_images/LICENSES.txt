@@ -1,0 +1,9 @@
+The image file bluegill.png was converted from a JPEG file by Ltshears (Own work) obtained via Wikimedia Commons.
+The image is licensed under CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html).
+Original: https://commons.wikimedia.org/wiki/File%3ABlueGill_002.jpg
+
+The image file twocats.png was converted from a JPEG file by wellflat (Own work) on Flickr.
+The image is licensed under CC-BY 2.0 (https://creativecommons.org/licenses/by/2.0/).
+Original: https://www.flickr.com/photos/95962563@N02/26830567365/
+
+All other images in the lab distribution were converted from photographs in the public domain.
