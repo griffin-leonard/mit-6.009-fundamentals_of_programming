@@ -1,0 +1,10 @@
+{
+	"game": {"dimensions": [2, 4, 2],
+	"board": [[[3, "."], [3, 3], [1, 1], [0, 0]],
+		   [[".", 3], [3, "."], [1, 1], [0, 0]]],
+	"mask":  [[[false, false], [false, true], [true, true], [true, true]],
+		   [[false, false], [false, false], [true, true], [true, true]]],
+	"state": "ongoing"
+	},
+	"revealed": 8
+}

@@ -1,0 +1,64 @@
+#s04-ribbon {
+  background-color: #389ce2;
+}
+
+#s04-main {
+  flex-direction: column;
+  align-items: center;
+}
+
+main > hr {
+  width: 128px;
+}
+
+main {
+  text-align: center;
+}
+
+main > * {
+  max-width: 80%;
+}
+
+canvas {
+  outline: 1px solid #CFD8DC;
+  image-rendering: pixelated;
+}
+
+#selector {
+  display: flex;
+  flex-direction: row;
+}
+
+.selector-col {
+  padding: 5px;
+}
+
+#game-content {
+  display: flex;
+}
+
+.coord-sel {
+  width: 40px;
+}
+
+#input-error-container {
+  height: 20px;
+}
+
+#input-error {
+  display: none;
+  color: #F44336;
+}
+
+#gameStateText.win, #gameStateText.lose {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+#gameStateText.win {
+  color: #389ce2;
+}
+
+#gameStateText.lose {
+  color: #F44336;
+}
